@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap'); 
+.text-box h1 { font-family: 'Staatliches', cursive; } 
+.text-box h4 { font-family: 'Montserrat', sans-serif; }
+
+#customer_contents {
+    margin-top: 5%;
+    margin-left: 5%;
+}

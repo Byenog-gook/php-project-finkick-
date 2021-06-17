@@ -1,0 +1,15 @@
+#customer_contents {
+    font-weight: bolder;
+    font-size: 1em;
+    color: black;
+
+}
+
+#customer_titles {
+    font-size: 2em !important;
+    color:indigo;
+}
+
+h1 {
+    font-size: 4em;
+}

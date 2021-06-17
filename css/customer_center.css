@@ -1,0 +1,21 @@
+#card-title {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+a:link {
+    color: white;
+    font-weight: bolder;
+}
+
+a:visited {
+    color: white;
+    font-weight: bolder;
+}
+
+.resume-section-content {
+    margin-top: 10%;
+}

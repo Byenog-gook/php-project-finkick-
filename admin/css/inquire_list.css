@@ -1,0 +1,20 @@
+.table {
+    margin-top: 5%;
+}
+
+#page_num {
+    text-align: center;
+    margin: 30px 0;
+  }
+  #page_num li {
+    display: inline;
+  }
+
+#Listlist {
+  float: right;
+}
+
+#ListWrite {
+  float: right;
+  margin-right: 2px;
+}
